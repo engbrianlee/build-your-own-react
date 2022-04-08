@@ -1,2 +1,3 @@
 # build-your-own-react
-Created with CodeSandbox
+
+Writing react from scratch, one line at a time
